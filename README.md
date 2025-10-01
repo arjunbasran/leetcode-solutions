@@ -1,6 +1,6 @@
 # LeetCode Solutions (NeetCode 150 Order)
 
-A tracker of my LeetCode problem-solving journey in Python, following the **NeetCode 150** roadmap (excluding 'hard' questions for now).
+This repository tracks my progress through the **NeetCode 150** coding interview roadmap (excluding 'hard' questions for now).
 Each file is named with the problem number and title for easy reference.  
 Some solutions are my own, while others are learned/adapted from **NeetCode YouTube explanations**.  
 Comments are included where useful to explain the approach and reinforce understanding.
